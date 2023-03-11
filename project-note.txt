@@ -1,0 +1,47 @@
+Page quản lý user?
+
+	Login
+	Regist (by user)
+	Reset pw
+	Logout
+	
+Admin
+	Index -> User List, Project List
+	Create user (by admin)
+	Create project
+	Edit user
+	Edit project
+	Create project category
+	Edit category
+	Add
+	Create company	
+
+Company
+	Dashboard
+	Profit of a month / year
+
+Projects
+	Create project
+	Assign employee
+	Edit project
+	Overtime cost
+	Total cost
+	Project profit	
+
+Employee
+	Type -> Company admin / dicrector / manager / lead / employee
+	Status
+	Project
+	Cost
+	Overtime
+
+
+Tuần sau phải có dống này
+	Danh sách chức năng
+	Sơ đồ ERD
+	Template -> Admin LTE, Search keyword hướng dẫn download theme từ themeforest
+
+
+employee log task, khi nào task xong, track bằng cách nào (có thể lấy mốc thời gian push code lên git để quyết định?)
+assign task cho nhân viên?
+
